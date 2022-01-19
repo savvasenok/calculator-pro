@@ -4,4 +4,5 @@
     <dimen name="padding_big">16dp</dimen>
     <dimen name="text_size_big">24sp</dimen>
     <dimen name="margin_medium">8dp</dimen>
+    <dimen name="keyboard_button_size">38dp</dimen>
 </resources>

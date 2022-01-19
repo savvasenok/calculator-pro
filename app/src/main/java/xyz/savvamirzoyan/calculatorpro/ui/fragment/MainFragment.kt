@@ -18,6 +18,8 @@ class MainFragment : Fragment() {
 
         binding = FragmentMainBinding.inflate(inflater, container, false)
 
+        binding.editTextExpression.showSoftInputOnFocus = false
+
         return binding.root
     }
 }
